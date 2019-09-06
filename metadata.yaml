@@ -10,6 +10,9 @@ contributor:
     gutenberg_agent_id: '46596'
     url: http://www.gutenberg.org/2009/agents/46596
     wikipedia: https://fi.wikipedia.org/wiki/Väinö_Nyman
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Grey, Zane
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/212
     wikipedia: http://en.wikipedia.org/wiki/Zane_Grey
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60203#Salaperainen-ratsastaja
 gutenberg_issued: '2019-08-31'
 gutenberg_type: Text
 identifiers:
